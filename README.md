@@ -1,4 +1,4 @@
-# Elastic Face Recognition with Manual Autoscaler
+# Distributed Cloud-Based Image Processing System with Manual Autoscaler
 
 ## Description
 Developed the elastic face recognition application using IaaS resources from AWS. Implemented the application tier of a multi-tiered cloud application, integrated a machine learning model for face recognition, and built an autoscaling mechanism to enable dynamic scaling of the application tier on demand.
