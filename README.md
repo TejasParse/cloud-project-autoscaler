@@ -77,7 +77,7 @@ Developed the elastic face recognition application using IaaS resources from AWS
 ### **Installation**
 1. Clone the repository:
    ```sh
-   git clone [https://github.com/your-username/your-repo.git](https://github.com/TejasParse/cloud-project-autoscaler.git)
+   git clone https://github.com/TejasParse/cloud-project-autoscaler.git
    cd cloud-project-autoscaler
    ```
 
